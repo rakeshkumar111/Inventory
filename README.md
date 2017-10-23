@@ -1,3 +1,0 @@
-# Inventory
-Inventory Project
-dddd
